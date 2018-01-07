@@ -40,7 +40,7 @@
 !end
  USE IFPORT
  implicit none  
- LOGICAL aa,b,c,a1,a2,a3,a4
+ LOGICAL aa,b,c,a1,a2,a3
 
   CHARACTER(len=255) :: path
  a1=getcwd(path)
